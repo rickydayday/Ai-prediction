@@ -2,10 +2,14 @@
   "name": "ai-predictor",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18",
+    "brainjs": "^0.7.4"
+  }
 }
